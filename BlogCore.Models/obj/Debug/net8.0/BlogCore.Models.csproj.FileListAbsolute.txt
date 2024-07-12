@@ -1,0 +1,25 @@
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.deps.json
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.dll
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.AssemblyReference.cache
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfoInputs.cache
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfo.cs
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.dll
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\obj\Debug\net8.0\refint\BlogCore.Models.dll
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.Models\obj\Debug\net8.0\ref\BlogCore.Models.dll
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.deps.json
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.dll
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.Models\bin\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.AssemblyInfo.cs
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.dll
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.Models\obj\Debug\net8.0\refint\BlogCore.Models.dll
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.Models\obj\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.Models\obj\Debug\net8.0\ref\BlogCore.Models.dll
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.Models\bin\Debug\net8.0\libwkhtmltox.dll
