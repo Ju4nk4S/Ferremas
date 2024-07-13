@@ -1,0 +1,80 @@
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.deps.json
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.runtimeconfig.json
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.dll
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.pdb
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Models.dll
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.AssemblyInfo.cs
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.csproj.CopyComplete
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.dll
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\refint\BlogCore.AccesoDatos.dll
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.pdb
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.genruntimeconfig.cache
+C:\Users\JANUS\Desktop\Curso_Net8_Mvc\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\ref\BlogCore.AccesoDatos.dll
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.deps.json
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.runtimeconfig.json
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.dll
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.pdb
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Models.dll
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.AssemblyInfo.cs
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.77B448E8.Up2Date
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.dll
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\refint\BlogCore.AccesoDatos.dll
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.pdb
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.genruntimeconfig.cache
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\ref\BlogCore.AccesoDatos.dll
+C:\Users\Admin\Downloads\BlogCore (2)\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\libwkhtmltox.dll
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\libwkhtmltox.dll
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.deps.json
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.runtimeconfig.json
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.dll
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.pdb
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Models.dll
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.AssemblyInfo.cs
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.77B448E8.Up2Date
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.dll
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\refint\BlogCore.AccesoDatos.dll
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.pdb
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.genruntimeconfig.cache
+C:\Users\Admin\Downloads\FerremasWeb\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\ref\BlogCore.AccesoDatos.dll
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\libwkhtmltox.dll
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.deps.json
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.runtimeconfig.json
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.dll
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.pdb
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Models.dll
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Utilidades.dll
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Models.pdb
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.sourcelink.json
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.77B448E8.Up2Date
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.dll
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\refint\BlogCore.AccesoDatos.dll
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.pdb
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Ferremass\Ferremas\FerremasApp\BlogCore.AccesoDatos\obj\Debug\net8.0\ref\BlogCore.AccesoDatos.dll

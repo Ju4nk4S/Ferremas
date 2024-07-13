@@ -1,0 +1,8 @@
+# Visual Studio specific files
+.vs/
+*.vsidx
+*.vscode
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
